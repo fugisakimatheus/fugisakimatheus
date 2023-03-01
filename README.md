@@ -1,4 +1,4 @@
-## Olá! sou o Matheus Fugisaki
+## Olá! me chamo Matheus Fugisaki
  <div>
   <a href="https://github.com/fugisakimatheus">
   <img height="180em" width="440px" src="https://github-readme-stats.vercel.app/api?username=fugisakimatheus&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
