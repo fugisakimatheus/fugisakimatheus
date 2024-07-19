@@ -1,6 +1,5 @@
 ## Olá! me chamo Matheus Fugisaki
  <div style="display: flex; flex-direction: row; align-items: center;">
-  <img height="180em" width="440px" src="https://github-readme-stats.vercel.app/api?username=fugisakimatheus&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
   <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fugisakimatheus&layout=donut&langs_count=7&theme=material-palenight"/>
 </div>
  
