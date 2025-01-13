@@ -1,5 +1,11 @@
 ## Olá! me chamo Matheus Fugisaki
- <div style="display: flex; flex-direction: row; align-items: center;">
+[![Years Badge](https://badges.pufler.dev/years/fugisakimatheus)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/fugisakimatheus)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/fugisakimatheus)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/fugisakimatheus/badge-it)](https://badges.pufler.dev)
+
+
+<div style="display: flex; flex-direction: row; align-items: center;">
   <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fugisakimatheus&layout=donut&langs_count=7&theme=material-palenight"/>
 </div>
  
