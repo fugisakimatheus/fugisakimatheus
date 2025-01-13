@@ -38,3 +38,5 @@
 </div>
 
 ![Snake animation](https://github.com/fugisakimatheus/fugisakimatheus/blob/output/github-contribution-grid-snake.svg)
+
+[![Last Stars Display](https://badges.pufler.dev/last-stars/fugisakimatheus?count=6&padding=15&perRow=3)](https://badges.pufler.dev)
