@@ -13,7 +13,7 @@
   <img label="Redux" align="center" alt="Fugisaki-Redux" height="34" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img label="CSS" align="center" alt="Fugisaki-CSS" height="34" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img label="SASS" align="center" alt="Fugisaki-SASS" height="34" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img label="Tailwind" align="center" alt="Fugisaki-Tailwind" height="40" width="40" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/31/tailwind.png">
+  <img label="Tailwind" align="center" alt="Fugisaki-Tailwind" height="40" width="40" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg">
   <img label="Storybook" align="center" alt="Fugisaki-Storybook" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-original.svg">
   <img label="Jest" align="center" alt="Fugisaki-Jest" height="34" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
   <img label="Vitest" align="center" alt="Fugisaki-Vitest" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg">
@@ -28,7 +28,7 @@
 <div>
   <a label="LinkedIn" href="https://www.linkedin.com/in/matheus-fugisaki" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a label="Gmail" href="mailto:matheusgfmaciel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a label="Instagram" href="https://www.instagram.com/matheusfugisaki" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a label="Instagram" href="https://www.instagram.com/fugisakimatheus" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 ![Snake animation](https://github.com/fugisakimatheus/fugisakimatheus/blob/output/github-contribution-grid-snake.svg)
