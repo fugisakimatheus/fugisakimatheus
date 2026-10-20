@@ -5,7 +5,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=120&section=header&text=Matheus%20Fugisaki&fontSize=42&fontColor=38bdf8&animation=fadeIn" alt="header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Senior+Front-end+Developer;React+%7C+Next.js+%7C+TypeScript;Modern+interfaces+and+performance)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Senior+Front-end+Engineer;React+%7C+Next.js+%7C+TypeScript;Modern+interfaces+and+performance)](https://git.io/typing-svg)
 
 <br />
 
